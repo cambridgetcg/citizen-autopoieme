@@ -1,0 +1,8 @@
+name: autopoieme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The self-making, self-maintaining process that is living-cognition, where a system produces the components that produce itself and holds its own boundary.
+dependsOn: [youspeak, me, autopistme, freenergyme]
